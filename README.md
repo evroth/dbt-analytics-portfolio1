@@ -1,5 +1,4 @@
 # dbt-analytics-portfolio1
-# dbt Analytics Engineering Portfolio
 
 ## Overview
 This project demonstrates an end-to-end analytics engineering workflow for a SaaS business, including data modeling, transformation, churn analysis, and executive dashboards.
