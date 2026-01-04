@@ -2,3 +2,6 @@
 analytics.duckdb
 __pycache__/
 .ipynb_checkpoints/
+# dbt logs
+logs/
+*.log
